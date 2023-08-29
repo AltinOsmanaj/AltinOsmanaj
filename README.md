@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AltinOsmanaj
-- 👀 I’m interested in Python Development
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning
 - 📫 How to reach me altin-osmanaj@hotmail.com
